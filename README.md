@@ -1,4 +1,4 @@
-# Hi, I'm Antoine 👋
+# Hi, I'm Antoine 
 
 **AI engineering student** at [ISEN Nantes](https://isen-nantes.fr/) (5th year, AI track) and [UQAC](https://www.uqac.ca/) in Québec.
 I build AI systems that have to work in the real world: retrieval pipelines on knowledge graphs, agents that act safely, and vision models trained from scratch.
