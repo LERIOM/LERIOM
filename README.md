@@ -13,6 +13,7 @@ I build AI systems that have to work in the real world: retrieval pipelines on k
 
 | Project | What it is | Stack |
 |---|---|---|
+| [**MobilityCopilot**](https://github.com/GabinVr/MobilityCopilot) | Multi-agent assistant for Montreal urban mobility: answers questions on collisions, 311 requests and weather from open data, with self-correcting SQL and a collision prediction model *(team project)* | LangGraph · RAG (ChromaDB) · FastAPI · scikit-learn · Redis |
 | [**TicketIt**](https://github.com/LERIOM/Ticketit) | AI agent that triages IT and security tickets and proposes actions to a separate executor | FastAPI · Ollama · Neo4j Graph RAG · Docker |
 | [**Masked Autoencoder**](https://github.com/LERIOM/MAE) | ViT masked autoencoder written from scratch, reused for classification and compared with ResNet18 | PyTorch · Streamlit |
 | [**Story Forge**](https://github.com/LERIOM/STORY-FORGE) | Mobile-first web app that turns photos and text into a story with a matching Spotify track | Next.js · FastAPI · Celery · PostgreSQL |
@@ -31,6 +32,7 @@ I build AI systems that have to work in the real world: retrieval pipelines on k
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?logo=ollama&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?logo=langchain&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-vector%20%2B%20graph-6E40C9)
 
 **Data**
