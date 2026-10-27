@@ -3,7 +3,7 @@
 **AI engineering student** at [ISEN Nantes](https://isen-nantes.fr/) (5th year, AI track) and [UQAC](https://www.uqac.ca/) in Québec.
 I build AI systems that have to work in the real world: retrieval pipelines on knowledge graphs, agents that act safely, and vision models trained from scratch.
 
-- 🔭 Building a hybrid **RAG + knowledge graph** assistant (Neo4j, Text-to-Cypher) for archaeologists in Québec
+- 🔭 Building an **AI assistant for archaeologists** in Québec (client project, under NDA)
 - 🧪 Research on when questions over a knowledge base can be answered **deterministically** by a graph query rather than by retrieval
 - 🤖 Building **TicketIt**, an AI agent for IT support and cybersecurity tickets
 - 🃏 Side project: **Pokit**, a preflop poker trainer for iPhone and iPad
